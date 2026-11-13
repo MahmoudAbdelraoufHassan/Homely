@@ -36,8 +36,8 @@
             "width": 900
           },
           "large": {
-            "src": "/Featured/image-4-optimized.webp",
-            "width": 1200
+            "src": "/Featured/medium/image-4-optimized.webp",
+            "width": 900
           }
         },
         {
@@ -148,8 +148,8 @@
             "width": 960
           },
           "large": {
-            "src": "/Featured/image-3-optimized.webp",
-            "width": 1400
+            "src": "/Featured/medium/image-3-optimized.webp",
+            "width": 960
           }
         },
         {
@@ -288,8 +288,8 @@
             "width": 960
           },
           "large": {
-            "src": "/Featured/image-3-optimized.webp",
-            "width": 1400
+            "src": "/Featured/medium/image-3-optimized.webp",
+            "width": 960
           }
         }
       ],
@@ -486,8 +486,8 @@
             "width": 900
           },
           "large": {
-            "src": "/Featured/image-4-optimized.webp",
-            "width": 1200
+            "src": "/Featured/medium/image-4-optimized.webp",
+            "width": 900
           }
         },
         {
@@ -585,8 +585,8 @@
             "width": 960
           },
           "large": {
-            "src": "/Featured/image-2-optimized.webp",
-            "width": 1400
+            "src": "/Featured/medium/image-2-optimized.webp",
+            "width": 960
           }
         },
         {
@@ -935,8 +935,8 @@
             "width": 508
           },
           "large": {
-            "src": "/Featured/image-optimized.webp",
-            "width": 678
+            "src": "/Featured/medium/image-optimized.webp",
+            "width": 508
           }
         },
         {
