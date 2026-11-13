@@ -1,0 +1,1436 @@
+{
+  "properties": [
+    {
+      "id": "modern-luxe-villa",
+      "name": "Modern Luxe Villa",
+      "address": "20 S Aurora Ave",
+      "city": "Miami, FL",
+      "type": "Villa",
+      "price": 1650500,
+      "beds": 4,
+      "baths": 3,
+      "area": 560,
+      "featured": true,
+      "images": [
+        {
+          "small": {
+            "src": "/Properties/small/property-01.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-01.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-01.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Featured/small/image-4-optimized.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Featured/medium/image-4-optimized.webp",
+            "width": 900
+          },
+          "large": {
+            "src": "/Featured/image-4-optimized.webp",
+            "width": 1200
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-03.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-03.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-03.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-04.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-04.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-04.webp",
+            "width": 1600
+          }
+        }
+      ],
+      "description": [
+        "A contemporary Miami villa with an open-plan layout, generous natural light, and thoughtfully designed indoor-outdoor living spaces.",
+        "The home features a modern kitchen, a spacious primary suite, energy-efficient systems, and smart-home access for everyday convenience.",
+        "Outside, a landscaped garden, private pool, and two entertaining areas make this home well suited to relaxed weekends and gatherings."
+      ],
+      "highlights": [
+        {
+          "icon": "pool",
+          "title": "Private pool",
+          "description": "Enjoy a private pool and landscaped outdoor space."
+        },
+        {
+          "icon": "wifi",
+          "title": "Smart home access",
+          "description": "Modern connected features make day-to-day living easier."
+        },
+        {
+          "icon": "energy",
+          "title": "Energy efficient",
+          "description": "Efficient systems and abundant natural light throughout."
+        }
+      ],
+      "features": [
+        "Smart home integration",
+        "Spacious living areas",
+        "Energy efficiency",
+        "Natural light",
+        "Security systems",
+        "Outdoor spaces"
+      ],
+      "imageAlts": [
+        "Modern villa exterior with garden",
+        "Contemporary home exterior",
+        "Bright living room",
+        "Open-plan dining and living area"
+      ],
+      "buyerTestimonial": {
+        "name": "Emily & John Smith",
+        "role": "Buyer",
+        "image": "/Testimonial/clients/buyer-01.webp",
+        "quote": "We found a home that fits our family and love how the bright living spaces open onto the garden. The property details helped us compare options with confidence."
+      }
+    },
+    {
+      "id": "serenity-heights-villa",
+      "name": "Serenity Heights Villa",
+      "address": "15 S Aurora Ave",
+      "city": "Miami, FL",
+      "type": "Villa",
+      "price": 570000,
+      "beds": 4,
+      "baths": 3,
+      "area": 240,
+      "featured": true,
+      "images": [
+        {
+          "small": {
+            "src": "/Properties/small/serenity-villa-hero.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/serenity-villa-hero.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/serenity-villa-hero.webp",
+            "width": 1920
+          }
+        },
+        {
+          "small": {
+            "src": "/Featured/small/image-3-optimized.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Featured/medium/image-3-optimized.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Featured/image-3-optimized.webp",
+            "width": 1400
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-05.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-05.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-05.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-07.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-07.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-07.webp",
+            "width": 1600
+          }
+        }
+      ],
+      "description": [
+        "A welcoming four-bedroom villa in a quiet Miami neighborhood, with a practical floor plan and comfortable spaces for everyday living.",
+        "The bright living area opens toward a private garden, while the well-proportioned bedrooms offer flexibility for family, guests, or a home office.",
+        "Conveniently located near local shops, parks, and major routes, this home combines neighborhood calm with easy access to the city."
+      ],
+      "highlights": [
+        {
+          "icon": "pool",
+          "title": "Private garden",
+          "description": "A quiet outdoor space for relaxing and entertaining."
+        },
+        {
+          "icon": "wifi",
+          "title": "Flexible living",
+          "description": "Four bedrooms provide room for family or a home office."
+        },
+        {
+          "icon": "energy",
+          "title": "Move-in ready",
+          "description": "Well-maintained interiors with practical modern finishes."
+        }
+      ],
+      "features": [
+        "Private garden",
+        "Open-plan living",
+        "Updated kitchen",
+        "Built-in storage",
+        "Covered parking",
+        "Near local parks"
+      ],
+      "imageAlts": [
+        "Modern villa exterior with garden",
+        "Outdoor terrace with city views",
+        "Landscaped home exterior",
+        "Family home surrounded by greenery"
+      ],
+      "buyerTestimonial": {
+        "name": "Olivia Bennett",
+        "role": "Buyer",
+        "image": "/Testimonial/clients/buyer-03.webp",
+        "quote": "The quiet neighborhood and flexible bedrooms were exactly what we were looking for. Having the key features in one place made arranging a visit easy."
+      }
+    },
+    {
+      "id": "bayview-residence",
+      "name": "Bayview Residence",
+      "address": "804 Harbor View Dr",
+      "city": "Tampa, FL",
+      "type": "House",
+      "price": 825000,
+      "beds": 3,
+      "baths": 2,
+      "area": 198,
+      "featured": true,
+      "images": [
+        {
+          "small": {
+            "src": "/Properties/small/bayview-residence-hero.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/bayview-residence-hero.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/bayview-residence-hero.webp",
+            "width": 1920
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-09.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-09.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-09.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-02.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-02.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-02.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Featured/small/image-3-optimized.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Featured/medium/image-3-optimized.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Featured/image-3-optimized.webp",
+            "width": 1400
+          }
+        }
+      ],
+      "description": [
+        "Set in a peaceful Tampa neighborhood, this three-bedroom home offers a comfortable layout with inviting natural light.",
+        "The living and dining areas connect easily to a modern kitchen, creating a functional setting for daily routines and hosting.",
+        "A covered patio and landscaped yard extend the living space outdoors, with shops and waterfront paths a short drive away."
+      ],
+      "highlights": [
+        {
+          "icon": "pool",
+          "title": "Outdoor living",
+          "description": "Covered patio and landscaped space for relaxing outside."
+        },
+        {
+          "icon": "wifi",
+          "title": "Convenient layout",
+          "description": "Living, dining, and kitchen areas flow together naturally."
+        },
+        {
+          "icon": "energy",
+          "title": "Bright interiors",
+          "description": "Large windows bring natural light into the main rooms."
+        }
+      ],
+      "features": [
+        "Covered patio",
+        "Updated kitchen",
+        "Natural light",
+        "Landscaped yard",
+        "Garage parking",
+        "Close to waterfront"
+      ],
+      "imageAlts": [
+        "Modern residence with swimming pool",
+        "Coastal home exterior",
+        "Modern home with pool",
+        "Waterfront terrace with city views"
+      ],
+      "buyerTestimonial": {
+        "name": "Daniel Rivera",
+        "role": "Buyer",
+        "image": "/Testimonial/clients/buyer-02.webp",
+        "quote": "We wanted a home near the water with room to host friends. The listing gave us a clear starting point, and the outdoor space made the decision feel right."
+      }
+    },
+    {
+      "id": "willow-creek-townhome",
+      "name": "Willow Creek Townhome",
+      "address": "327 Willow Creek Ln",
+      "city": "Orlando, FL",
+      "type": "Townhouse",
+      "price": 439000,
+      "beds": 3,
+      "baths": 2,
+      "area": 156,
+      "featured": false,
+      "heroImage": "/Properties/willow-creek-hero.webp",
+      "images": [
+        {
+          "small": {
+            "src": "/Properties/small/property-04.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-04.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-04.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-07.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-07.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-07.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-03.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-03.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-03.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-08.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-08.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-08.webp",
+            "width": 1280
+          }
+        }
+      ],
+      "description": [
+        "A low-maintenance Orlando townhome with a thoughtfully arranged two-level floor plan and comfortable shared living spaces.",
+        "The kitchen offers ample storage and connects to the dining area, while upstairs bedrooms provide a quieter place to unwind.",
+        "The community setting is close to everyday shopping, dining, and commuter routes."
+      ],
+      "highlights": [
+        {
+          "icon": "pool",
+          "title": "Low-maintenance living",
+          "description": "A practical home with easy-care outdoor space."
+        },
+        {
+          "icon": "wifi",
+          "title": "Flexible bedrooms",
+          "description": "Additional rooms can suit guests or work-from-home needs."
+        },
+        {
+          "icon": "energy",
+          "title": "Convenient location",
+          "description": "Close to shopping, dining, and main commuter routes."
+        }
+      ],
+      "features": [
+        "Two-level layout",
+        "Modern kitchen",
+        "Private patio",
+        "Assigned parking",
+        "Community amenities",
+        "Near shopping"
+      ],
+      "imageAlts": [
+        "Townhome interior with open living area",
+        "Townhome exterior with green landscaping",
+        "Comfortable living room",
+        "Dining area with natural light"
+      ],
+      "buyerTestimonial": {
+        "name": "Maya & Chris Patel",
+        "role": "Buyer",
+        "image": "/Testimonial/clients/buyer-04.webp",
+        "quote": "The low-maintenance layout suits our busy schedule, and we appreciate being close to everyday shops. The photos helped us picture how we would use each room."
+      }
+    },
+    {
+      "id": "palm-grove-estate",
+      "name": "Palm Grove Estate",
+      "address": "91 Palm Grove Way",
+      "city": "Fort Lauderdale, FL",
+      "type": "Villa",
+      "price": 1295000,
+      "beds": 5,
+      "baths": 4,
+      "area": 372,
+      "featured": false,
+      "heroImage": "/Properties/palm-grove-hero.webp",
+      "images": [
+        {
+          "small": {
+            "src": "/Properties/small/palm-grove-hero.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/palm-grove-hero.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/palm-grove-hero.webp",
+            "width": 1920
+          }
+        },
+        {
+          "small": {
+            "src": "/Featured/small/image-4-optimized.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Featured/medium/image-4-optimized.webp",
+            "width": 900
+          },
+          "large": {
+            "src": "/Featured/image-4-optimized.webp",
+            "width": 1200
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-01.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-01.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-01.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-02.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-02.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-02.webp",
+            "width": 1600
+          }
+        }
+      ],
+      "description": [
+        "A spacious five-bedroom home in Fort Lauderdale offering generous gathering areas and a versatile layout.",
+        "The main living spaces are designed for both everyday comfort and entertaining, with a well-equipped kitchen and ample storage.",
+        "A private backyard with mature landscaping provides a calm outdoor retreat close to the area's beaches and local amenities."
+      ],
+      "highlights": [
+        {
+          "icon": "pool",
+          "title": "Generous outdoor space",
+          "description": "A landscaped backyard offers room to unwind or entertain."
+        },
+        {
+          "icon": "wifi",
+          "title": "Room for everyone",
+          "description": "Five bedrooms offer flexible space for family and guests."
+        },
+        {
+          "icon": "energy",
+          "title": "Entertainer's layout",
+          "description": "Large common areas connect the kitchen and living spaces."
+        }
+      ],
+      "features": [
+        "Five bedrooms",
+        "Large kitchen",
+        "Walk-in closets",
+        "Landscaped backyard",
+        "Two-car garage",
+        "Near beaches"
+      ],
+      "imageAlts": [
+        "Estate home with landscaped front yard",
+        "Contemporary home exterior",
+        "Modern villa surrounded by trees",
+        "Bright villa with private swimming pool"
+      ],
+      "buyerTestimonial": {
+        "name": "Sophia Carter",
+        "role": "Buyer",
+        "image": "/Testimonial/clients/buyer-03.webp",
+        "quote": "We needed space for family visits and a backyard where everyone could relax. This home offered both, with a layout that feels welcoming rather than overwhelming."
+      }
+    },
+    {
+      "id": "downtown-loft",
+      "name": "Downtown Loft",
+      "address": "612 E Central Blvd",
+      "city": "Orlando, FL",
+      "type": "Apartment",
+      "price": 365000,
+      "beds": 2,
+      "baths": 2,
+      "area": 112,
+      "featured": false,
+      "heroImage": "/Properties/downtown-loft-hero.webp",
+      "images": [
+        {
+          "small": {
+            "src": "/Featured/small/image-2-optimized.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Featured/medium/image-2-optimized.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Featured/image-2-optimized.webp",
+            "width": 1400
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-03.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-03.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-03.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-08.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-08.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-08.webp",
+            "width": 1280
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-06.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-06.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-06.webp",
+            "width": 1600
+          }
+        }
+      ],
+      "description": [
+        "A bright downtown apartment with an open-plan living area and a convenient central location.",
+        "The two-bedroom layout includes a modern kitchen, comfortable living room, and practical storage throughout.",
+        "Residents are within easy reach of cafes, restaurants, transit, and the city's cultural destinations."
+      ],
+      "highlights": [
+        {
+          "icon": "pool",
+          "title": "Central location",
+          "description": "Walkable access to dining, culture, and everyday services."
+        },
+        {
+          "icon": "wifi",
+          "title": "Open-plan living",
+          "description": "A connected layout makes efficient use of the space."
+        },
+        {
+          "icon": "energy",
+          "title": "Building amenities",
+          "description": "Enjoy convenient shared spaces in a well-connected building."
+        }
+      ],
+      "features": [
+        "Open-plan layout",
+        "Modern kitchen",
+        "Secure entry",
+        "Elevator access",
+        "Shared fitness room",
+        "Near public transit"
+      ],
+      "imageAlts": [
+        "Downtown loft with exposed brick and tall windows",
+        "Modern open-plan living room",
+        "Bright dining area",
+        "Contemporary bathroom"
+      ],
+      "buyerTestimonial": {
+        "name": "Jordan Lee",
+        "role": "Buyer",
+        "image": "/Testimonial/clients/buyer-02.webp",
+        "quote": "Being able to walk to cafes and transit was our priority. The downtown location and practical floor plan make city life much easier for us."
+      }
+    },
+    {
+      "id": "lake-nona-family-home",
+      "name": "Lake Nona Family Home",
+      "address": "10432 Moss Park Rd",
+      "city": "Orlando, FL",
+      "type": "House",
+      "price": 615000,
+      "beds": 4,
+      "baths": 3,
+      "area": 226,
+      "featured": false,
+      "images": [
+        {
+          "small": {
+            "src": "/Properties/small/property-07.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-07.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-07.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-01.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-01.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-01.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-04.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-04.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-04.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-05.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-05.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-05.webp",
+            "width": 1600
+          }
+        }
+      ],
+      "description": [
+        "A comfortable family home in the Lake Nona area, with four bedrooms and a spacious main living area.",
+        "The practical floor plan includes a modern kitchen, a dedicated dining space, and room to work or study from home.",
+        "Nearby parks, schools, and community amenities make this a convenient option for households seeking more space."
+      ],
+      "highlights": [
+        {
+          "icon": "pool",
+          "title": "Family-friendly setting",
+          "description": "Parks and community amenities are close by."
+        },
+        {
+          "icon": "wifi",
+          "title": "Flexible space",
+          "description": "Four bedrooms give you options for work and guests."
+        },
+        {
+          "icon": "energy",
+          "title": "Everyday comfort",
+          "description": "A spacious living area connects the home's main rooms."
+        }
+      ],
+      "features": [
+        "Four bedrooms",
+        "Dedicated dining area",
+        "Home office potential",
+        "Two-car garage",
+        "Community parks",
+        "Near schools"
+      ],
+      "imageAlts": [
+        "Family home with a leafy yard",
+        "Modern home exterior",
+        "Open living room with staircase",
+        "Contemporary home with landscaped garden"
+      ],
+      "buyerTestimonial": {
+        "name": "Ava & Noah Wilson",
+        "role": "Buyer",
+        "image": "/Testimonial/clients/buyer-01.webp",
+        "quote": "We were looking for room to work from home and still have space for the kids. The extra bedrooms and nearby parks made this a great fit."
+      }
+    },
+    {
+      "id": "coral-gables-courtyard-home",
+      "name": "Coral Gables Courtyard Home",
+      "address": "438 Valencia Ave",
+      "city": "Coral Gables, FL",
+      "type": "House",
+      "price": 975000,
+      "beds": 3,
+      "baths": 2,
+      "area": 205,
+      "featured": false,
+      "images": [
+        {
+          "small": {
+            "src": "/Properties/small/property-08.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-08.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-08.webp",
+            "width": 1280
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-03.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-03.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-03.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-04.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-04.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-04.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-01.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-01.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-01.webp",
+            "width": 1600
+          }
+        }
+      ],
+      "description": [
+        "A characterful Coral Gables home centered around a private courtyard and comfortable indoor-outdoor living.",
+        "The home includes three bedrooms, a bright living room, and a refreshed kitchen with useful prep and storage space.",
+        "Tree-lined streets, neighborhood dining, and local parks are all part of this established community."
+      ],
+      "highlights": [
+        {
+          "icon": "pool",
+          "title": "Private courtyard",
+          "description": "A peaceful outdoor centerpiece with room to relax."
+        },
+        {
+          "icon": "wifi",
+          "title": "Updated interiors",
+          "description": "Refreshed finishes meet a comfortable, practical layout."
+        },
+        {
+          "icon": "energy",
+          "title": "Established neighborhood",
+          "description": "Enjoy leafy streets and nearby local amenities."
+        }
+      ],
+      "features": [
+        "Private courtyard",
+        "Updated kitchen",
+        "Hardwood floors",
+        "Mature landscaping",
+        "Covered parking",
+        "Near local dining"
+      ],
+      "imageAlts": [
+        "Sunlit dining room opening toward a courtyard",
+        "Modern living room",
+        "Open-plan home interior",
+        "Contemporary home exterior"
+      ],
+      "buyerTestimonial": {
+        "name": "Isabella Martin",
+        "role": "Buyer",
+        "image": "/Testimonial/clients/buyer-03.webp",
+        "quote": "The private courtyard gives the home a calm feel, and the neighborhood has the character we hoped to find. It was easy to imagine settling in here."
+      }
+    },
+    {
+      "id": "clearwater-coastal-condo",
+      "name": "Clearwater Coastal Condo",
+      "address": "1800 Gulf Blvd",
+      "city": "Clearwater, FL",
+      "type": "Condo",
+      "price": 529000,
+      "beds": 2,
+      "baths": 2,
+      "area": 128,
+      "featured": false,
+      "images": [
+        {
+          "small": {
+            "src": "/Properties/small/property-09.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-09.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-09.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Featured/small/image-optimized.webp",
+            "width": 339
+          },
+          "medium": {
+            "src": "/Featured/medium/image-optimized.webp",
+            "width": 508
+          },
+          "large": {
+            "src": "/Featured/image-optimized.webp",
+            "width": 678
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-02.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-02.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-02.webp",
+            "width": 1600
+          }
+        },
+        {
+          "small": {
+            "src": "/Properties/small/property-07.webp",
+            "width": 480
+          },
+          "medium": {
+            "src": "/Properties/medium/property-07.webp",
+            "width": 960
+          },
+          "large": {
+            "src": "/Properties/property-07.webp",
+            "width": 1600
+          }
+        }
+      ],
+      "description": [
+        "A coastal condominium with a light-filled interior and an easy-to-maintain two-bedroom layout.",
+        "The open living and dining area offers a comfortable place to unwind, while the kitchen is arranged for practical everyday use.",
+        "The property is close to Clearwater's beaches, local restaurants, and waterfront activities."
+      ],
+      "highlights": [
+        {
+          "icon": "pool",
+          "title": "Coastal lifestyle",
+          "description": "Enjoy quick access to nearby beaches and waterfront paths."
+        },
+        {
+          "icon": "wifi",
+          "title": "Easy-care home",
+          "description": "A comfortable layout suited to low-maintenance living."
+        },
+        {
+          "icon": "energy",
+          "title": "Shared amenities",
+          "description": "Building facilities add convenience to everyday life."
+        }
+      ],
+      "features": [
+        "Open living area",
+        "Private balcony",
+        "Secure building",
+        "Shared pool",
+        "Assigned parking",
+        "Near the beach"
+      ],
+      "imageAlts": [
+        "Coastal home exterior",
+        "Waterfront residence beside the beach",
+        "Modern home with pool",
+        "Landscaped home exterior"
+      ],
+      "buyerTestimonial": {
+        "name": "Ethan Brooks",
+        "role": "Buyer",
+        "image": "/Testimonial/clients/buyer-04.webp",
+        "quote": "We wanted an easy-care home close to the beach. The condo layout and nearby waterfront activities suit the relaxed lifestyle we had in mind."
+      }
+    }
+  ],
+  "blogs": [
+    {
+      "id": "first-time-homebuyer-guide",
+      "title": "A practical guide for first-time home buyers",
+      "category": "Buying",
+      "date": "October 20, 2026",
+      "readTime": 6,
+      "image": "/Blog/blog-01.webp",
+      "imageAlt": "House keys beside a model home",
+      "excerpt": "Build a clear plan for your first purchase, from setting priorities to preparing for closing day.",
+      "author": "Emily Smith",
+      "authorRole": "Real estate writer",
+      "authorImage": "/Testimonial/clients/buyer-01.webp",
+      "content": [
+        {
+          "heading": "Start with a realistic budget",
+          "paragraphs": [
+            "Begin with the monthly payment that fits your income and current expenses, rather than the maximum amount a lender may approve. Include taxes, insurance, utilities, and a reserve for repairs.",
+            "Ask a qualified lender to explain financing options and pre-approval requirements. A pre-approval can help you shop within a range, but it is not a guarantee of final loan approval."
+          ]
+        },
+        {
+          "heading": "Make a needs-and-wants list",
+          "paragraphs": [
+            "Separate essentials such as location, bedroom count, and accessibility from features you would simply enjoy. A short list helps you compare homes consistently.",
+            "Visit neighborhoods at different times of day and consider commute routes, nearby services, and the way you expect your needs to change over time."
+          ]
+        },
+        {
+          "heading": "Review the home before you commit",
+          "paragraphs": [
+            "Schedule an independent inspection and read the available disclosures carefully. Ask questions about anything you do not understand before making a decision.",
+            "Keep track of deadlines, documents, and costs with your agent and lender so that each step toward closing is clear."
+          ]
+        }
+      ],
+      "isSample": true
+    },
+    {
+      "id": "choosing-the-right-neighborhood",
+      "title": "How to choose a neighborhood that fits your life",
+      "category": "Neighborhoods",
+      "date": "October 14, 2026",
+      "readTime": 5,
+      "image": "/Blog/blog-03.webp",
+      "imageAlt": "Detached home in a tropical neighborhood",
+      "excerpt": "Look beyond a listing to evaluate everyday convenience, local character, and future needs.",
+      "author": "Marcus Lee",
+      "authorRole": "Community guide",
+      "authorImage": "/Testimonial/clients/buyer-02.webp",
+      "content": [
+        {
+          "heading": "Map your everyday routine",
+          "paragraphs": [
+            "Think about the places you visit most often, including work, schools, groceries, parks, and healthcare. A map makes it easier to see how a location will work in practice.",
+            "Test typical routes during the times you expect to travel. A short drive on a quiet weekend may feel very different during weekday traffic."
+          ]
+        },
+        {
+          "heading": "Spend time in the area",
+          "paragraphs": [
+            "Walk around at different times of day and notice noise, parking, lighting, and the general pace of the neighborhood. If possible, speak with residents about what they value.",
+            "Compare more than one area that fits your budget. Looking at alternatives helps you distinguish must-haves from preferences."
+          ]
+        },
+        {
+          "heading": "Plan for the years ahead",
+          "paragraphs": [
+            "Consider whether the area can support likely changes in your household, work arrangements, or transportation needs.",
+            "Research local services and public information directly. Details such as school assignments and planned developments should be verified with the relevant local sources."
+          ]
+        }
+      ],
+      "isSample": true
+    },
+    {
+      "id": "mortgage-preapproval-basics",
+      "title": "Mortgage pre-approval: what buyers should know",
+      "category": "Financing",
+      "date": "October 08, 2026",
+      "readTime": 5,
+      "image": "/Blog/blog-02.webp",
+      "imageAlt": "Documents and calculator used for financial planning",
+      "excerpt": "Learn what lenders typically review and how to use a pre-approval thoughtfully while house hunting.",
+      "author": "Nina Parker",
+      "authorRole": "Housing finance editor",
+      "authorImage": "/Testimonial/clients/buyer-03.webp",
+      "content": [
+        {
+          "heading": "Understand what pre-approval means",
+          "paragraphs": [
+            "A lender reviews information such as income, debts, assets, and credit history to estimate a potential loan amount. Requirements and timelines vary by lender and borrower.",
+            "Pre-approval is an early assessment, not a final loan commitment. The lender may verify information again and review the property before closing."
+          ]
+        },
+        {
+          "heading": "Prepare your documents",
+          "paragraphs": [
+            "Lenders commonly request recent income and asset records, identification, and details about recurring debts. Ask your lender for its specific checklist.",
+            "Avoid making major financial changes during the process without first discussing them with your lender. Changes to employment, balances, or new credit can affect an application."
+          ]
+        },
+        {
+          "heading": "Compare the full cost",
+          "paragraphs": [
+            "Look beyond the quoted interest rate. Ask about fees, loan terms, estimated monthly costs, and whether the rate is fixed or adjustable.",
+            "Choose a budget that leaves room for ongoing home expenses and savings. A comfortable payment is more useful than simply shopping at the top of an approval range."
+          ]
+        }
+      ],
+      "isSample": true
+    },
+    {
+      "id": "home-inspection-checklist",
+      "title": "What to look for during a home inspection",
+      "category": "Homeownership",
+      "date": "September 30, 2026",
+      "readTime": 6,
+      "image": "/Blog/blog-04.webp",
+      "imageAlt": "Bright living room with staircase and windows",
+      "excerpt": "Use an inspection to understand a home?s condition and identify questions for qualified professionals.",
+      "author": "Daniel Moore",
+      "authorRole": "Home care contributor",
+      "authorImage": "/Testimonial/clients/buyer-04.webp",
+      "content": [
+        {
+          "heading": "Know the inspection?s purpose",
+          "paragraphs": [
+            "A home inspection is a visual review of accessible areas and systems at a point in time. It can identify concerns, but it does not guarantee that every hidden issue will be found.",
+            "Choose an appropriately qualified independent inspector and ask what the inspection includes and excludes before booking."
+          ]
+        },
+        {
+          "heading": "Attend and take notes",
+          "paragraphs": [
+            "If possible, attend the inspection and ask the inspector to explain significant findings. Notes and photos can help you remember what needs follow-up.",
+            "Pay attention to major systems, visible water damage, drainage, windows, and signs that may warrant additional evaluation by a specialist."
+          ]
+        },
+        {
+          "heading": "Use the report to plan next steps",
+          "paragraphs": [
+            "Review the report carefully and ask for clarification on safety concerns, recommended repairs, and items to monitor over time.",
+            "Get estimates from licensed professionals when needed. Your agent can explain contract timelines and options, while the inspector can clarify technical observations."
+          ]
+        }
+      ],
+      "isSample": true
+    },
+    {
+      "id": "closing-costs-budget",
+      "title": "Budgeting for closing costs and the first year at home",
+      "category": "Budgeting",
+      "date": "September 22, 2026",
+      "readTime": 4,
+      "image": "/Blog/blog-05.webp",
+      "imageAlt": "Sunlit living room with plants and a comfortable sofa",
+      "excerpt": "A purchase budget should include more than the down payment and monthly mortgage estimate.",
+      "author": "Emily Smith",
+      "authorRole": "Real estate writer",
+      "authorImage": "/Testimonial/clients/buyer-01.webp",
+      "content": [
+        {
+          "heading": "Ask for an itemized estimate",
+          "paragraphs": [
+            "Closing costs may include lender fees, title services, prepaid taxes or insurance, and other transaction costs. The exact amount depends on the location, loan, and contract.",
+            "Ask your lender for a current loan estimate and your closing professional for an explanation of charges as the transaction progresses."
+          ]
+        },
+        {
+          "heading": "Set aside move-in funds",
+          "paragraphs": [
+            "Moving, utility setup, basic furnishings, and small repairs can add up quickly. Make a separate list of expenses you expect during the first few months.",
+            "Keep an emergency reserve after closing rather than using every available dollar for the purchase."
+          ]
+        },
+        {
+          "heading": "Plan for recurring ownership costs",
+          "paragraphs": [
+            "Property taxes, insurance, utilities, maintenance, and association fees can affect your monthly budget. Confirm which expenses apply to the specific home.",
+            "Use estimates as planning tools and verify current costs with the relevant providers before you make a final commitment."
+          ]
+        }
+      ],
+      "isSample": true
+    },
+    {
+      "id": "condo-or-house",
+      "title": "Condo or house: compare the trade-offs",
+      "category": "Property types",
+      "date": "September 15, 2026",
+      "readTime": 5,
+      "image": "/Blog/blog-06.webp",
+      "imageAlt": "Modern home interior with dining table and open layout",
+      "excerpt": "Compare maintenance, shared rules, outdoor space, and monthly costs before choosing a home type.",
+      "author": "Marcus Lee",
+      "authorRole": "Community guide",
+      "authorImage": "/Testimonial/clients/buyer-02.webp",
+      "content": [
+        {
+          "heading": "Think about maintenance and control",
+          "paragraphs": [
+            "A detached home may offer more control over the property but can also mean more direct responsibility for repairs and outdoor upkeep.",
+            "A condominium may include shared maintenance, while owners typically share responsibility for common areas through association rules and fees."
+          ]
+        },
+        {
+          "heading": "Review association documents",
+          "paragraphs": [
+            "For a condo or planned community, read the governing documents, budget, meeting records, and details about fees and reserves where available.",
+            "Ask what the monthly fee covers and whether there are known or planned assessments. Confirm important details with the association and qualified professionals."
+          ]
+        },
+        {
+          "heading": "Match the choice to your priorities",
+          "paragraphs": [
+            "Consider location, privacy, outdoor space, amenities, and your willingness to manage upkeep. There is no single best option for every buyer.",
+            "Compare the total monthly cost of each option using current, property-specific estimates rather than the listing price alone."
+          ]
+        }
+      ],
+      "isSample": true
+    },
+    {
+      "id": "prepare-home-for-sale",
+      "title": "Simple ways to prepare your home for sale",
+      "category": "Selling",
+      "date": "September 06, 2026",
+      "readTime": 4,
+      "image": "/Blog/blog-07.webp",
+      "imageAlt": "Detached home with garden and swimming pool",
+      "excerpt": "Thoughtful preparation can help buyers understand a home?s space, condition, and best features.",
+      "author": "Nina Parker",
+      "authorRole": "Housing finance editor",
+      "authorImage": "/Testimonial/clients/buyer-03.webp",
+      "content": [
+        {
+          "heading": "Start with a clear, comfortable space",
+          "paragraphs": [
+            "Remove excess clutter and make walkways easy to navigate. A tidy home helps visitors focus on the layout and natural light.",
+            "You do not need to make every room look staged. Prioritize clean surfaces, simple organization, and clear access to important areas."
+          ]
+        },
+        {
+          "heading": "Address visible maintenance",
+          "paragraphs": [
+            "Fix small issues you already know about, such as loose hardware or burned-out lights, and keep records of work completed.",
+            "Ask a local real estate professional which improvements are appropriate for your market. Avoid assuming that a costly renovation will be recovered in the sale price."
+          ]
+        },
+        {
+          "heading": "Prepare accurate listing information",
+          "paragraphs": [
+            "Gather available details about utilities, improvements, included items, and property features. Be transparent about known conditions and follow local disclosure requirements.",
+            "Use clear, current photographs that represent the home honestly and arrange viewings with enough time to prepare."
+          ]
+        }
+      ],
+      "isSample": true
+    },
+    {
+      "id": "real-estate-investment-basics",
+      "title": "Real estate investing: start with the numbers",
+      "category": "Investing",
+      "date": "August 28, 2026",
+      "readTime": 6,
+      "image": "/Blog/blog-08.webp",
+      "imageAlt": "Quiet bedroom with natural light",
+      "excerpt": "Before evaluating a rental property, understand the costs, local rules, and risks involved.",
+      "author": "Daniel Moore",
+      "authorRole": "Home care contributor",
+      "authorImage": "/Testimonial/clients/buyer-04.webp",
+      "content": [
+        {
+          "heading": "Estimate income conservatively",
+          "paragraphs": [
+            "Research comparable rents and account for periods when the property may be vacant. A projected rent is not guaranteed income.",
+            "Consider how location, property condition, and local demand may affect the time and effort needed to find and keep tenants."
+          ]
+        },
+        {
+          "heading": "Include the full cost of ownership",
+          "paragraphs": [
+            "Build estimates for financing, taxes, insurance, repairs, routine maintenance, management, and applicable association fees.",
+            "Leave room for unexpected expenses and verify assumptions with qualified local professionals before making an offer."
+          ]
+        },
+        {
+          "heading": "Understand your responsibilities",
+          "paragraphs": [
+            "Rental rules, licensing, safety requirements, and tenant protections vary by location. Review current requirements with local authorities or legal counsel.",
+            "Invest only after considering your time horizon, available reserves, and ability to manage changes in costs or occupancy."
+          ]
+        }
+      ],
+      "isSample": true
+    },
+    {
+      "id": "energy-efficient-home-upgrades",
+      "title": "Energy-smart upgrades that improve everyday comfort",
+      "category": "Home improvement",
+      "date": "August 19, 2026",
+      "readTime": 4,
+      "image": "/Blog/blog-09.webp",
+      "imageAlt": "Contemporary bright living room",
+      "excerpt": "Start with practical improvements that reduce waste and help keep indoor spaces comfortable.",
+      "author": "Emily Smith",
+      "authorRole": "Real estate writer",
+      "authorImage": "/Testimonial/clients/buyer-01.webp",
+      "content": [
+        {
+          "heading": "Begin with an energy checkup",
+          "paragraphs": [
+            "Review utility bills and look for drafts, uneven temperatures, or equipment that may need attention. An energy audit can help identify where improvements could have the greatest effect.",
+            "Prioritize safety and maintenance first. A qualified contractor can advise on the condition and suitability of existing systems."
+          ]
+        },
+        {
+          "heading": "Choose upgrades for the home",
+          "paragraphs": [
+            "Sealing air leaks, improving insulation, and using efficient lighting may support comfort when properly matched to the building.",
+            "For larger work such as HVAC or window replacement, compare qualified installer estimates and consider the home?s climate and construction."
+          ]
+        },
+        {
+          "heading": "Check incentives and expected costs",
+          "paragraphs": [
+            "Rebates and tax incentives change over time and depend on eligibility. Verify current programs with official sources before including them in a budget.",
+            "Compare upfront costs with expected energy savings using realistic assumptions rather than relying on broad promises."
+          ]
+        }
+      ],
+      "isSample": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "emily-john-smith",
+      "name": "Emily & John Smith",
+      "role": "Buyer",
+      "quote": "We found a home that fits our family, and the detailed listing helped us compare our options with confidence. The process felt clear from the first viewing through closing.",
+      "image": {
+        "small": {
+          "src": "/Testimonial/clients/small/testimonial-emily.webp",
+          "width": 320
+        },
+        "medium": {
+          "src": "/Testimonial/clients/medium/testimonial-emily.webp",
+          "width": 640
+        },
+        "large": {
+          "src": "/Testimonial/clients/testimonial-emily.webp",
+          "width": 900
+        }
+      },
+      "isSample": true
+    },
+    {
+      "id": "olivia-bennett",
+      "name": "Olivia Bennett",
+      "role": "Buyer",
+      "quote": "The neighborhood guide helped me focus my search. I appreciated having the property details and photos together before arranging visits.",
+      "image": {
+        "small": {
+          "src": "/Testimonial/clients/small/testimonial-olivia.webp",
+          "width": 320
+        },
+        "medium": {
+          "src": "/Testimonial/clients/medium/testimonial-olivia.webp",
+          "width": 640
+        },
+        "large": {
+          "src": "/Testimonial/clients/testimonial-olivia.webp",
+          "width": 900
+        }
+      },
+      "isSample": true
+    },
+    {
+      "id": "daniel-rivera",
+      "name": "Daniel Rivera",
+      "role": "Buyer",
+      "quote": "I could quickly shortlist homes that matched my priorities. Getting answers to my questions made each next step feel manageable.",
+      "image": {
+        "small": {
+          "src": "/Testimonial/clients/small/testimonial-daniel.webp",
+          "width": 320
+        },
+        "medium": {
+          "src": "/Testimonial/clients/medium/testimonial-daniel.webp",
+          "width": 640
+        },
+        "large": {
+          "src": "/Testimonial/clients/testimonial-daniel.webp",
+          "width": 900
+        }
+      },
+      "isSample": true
+    },
+    {
+      "id": "maya-chris-patel",
+      "name": "Maya & Chris Patel",
+      "role": "Buyer",
+      "quote": "We were able to compare layouts and locations as a team. The experience was straightforward, and we found a home that works for our daily routine.",
+      "image": {
+        "small": {
+          "src": "/Testimonial/clients/small/testimonial-patel.webp",
+          "width": 80
+        },
+        "medium": {
+          "src": "/Testimonial/clients/medium/testimonial-patel.webp",
+          "width": 480
+        },
+        "large": {
+          "src": "/Testimonial/clients/testimonial-patel.webp",
+          "width": 900
+        }
+      },
+      "isSample": true
+    }
+  ]
+}
