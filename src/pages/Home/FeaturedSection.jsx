@@ -265,7 +265,7 @@ function FeaturedSection() {
               loop={featuredProperties.length > 1}
               speed={prefersReducedMotion ? 0 : 800}
               autoplay={prefersReducedMotion ? false : featuredAutoplayOptions}
-              allowTouchMove={false}
+              allowTouchMove={true}
               onSwiper={(swiper) => {
                 MainSwiperRef.current = swiper;
                 setIsSwiperReady(true);
