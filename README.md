@@ -39,7 +39,6 @@ realstate-app/
 │   ├── App.jsx            # App router configuration
 │   ├── index.css          # Global styles
 │   └── main.jsx           # App bootstrap
-├── db.json                # Root JSON mock database
 ├── package.json           # Scripts and dependencies
 ├── vite.config.js        # Vite config
 ├── eslint.config.js      # ESLint config
