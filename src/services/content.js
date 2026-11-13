@@ -1,27 +1,18 @@
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:3000";
-
-async function getCollection(collection) {
-  const response = await fetch(`${API_URL}/${collection}`);
-
-  if (!response.ok) {
-    throw new Error(`Failed to load ${collection} (${response.status})`);
-  }
-
-  return response.json();
-}
+import { getCollection } from "./data";
 
 export function getBlogs() {
   return getCollection("blogs");
 }
 
 export async function getBlog(id) {
-  const response = await fetch(`${API_URL}/blogs/${id}`);
+  const blogs = await getBlogs();
+  const blog = blogs.find((item) => String(item.id) === String(id));
 
-  if (!response.ok) {
-    throw new Error(`Failed to load blog article (${response.status})`);
+  if (!blog) {
+    throw new Error(`Failed to load blog article (${id}): not found`);
   }
 
-  return response.json();
+  return blog;
 }
 
 export function loadBlog({ params }) {

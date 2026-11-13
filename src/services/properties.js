@@ -1,24 +1,18 @@
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:3000";
+import { getCollection } from "./data";
 
-export async function getProperties() {
-    const response = await fetch(`${API_URL}/properties`);
-    
-    if(!response.ok){
-      throw new Error(response.statusText);
-    }
-
-    const data = await response.json();
-    return data;
+export function getProperties(options) {
+  return getCollection("properties", options);
 }
 
 export async function getProperty(id) {
-    const response = await fetch(`${API_URL}/properties/${id}`); 
-    if(!response.ok){
-      throw new Error(`Failed to load property (${response.status})`);
-    }
+  const properties = await getProperties();
+  const property = properties.find((item) => String(item.id) === String(id));
 
-    const data = await response.json();
-    return data;
+  if (!property) {
+    throw new Error(`Failed to load property (${id}): not found`);
+  }
+
+  return property;
 }
 
 export function loadProperties() {

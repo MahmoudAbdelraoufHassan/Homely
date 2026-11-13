@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
-
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:3000";
+import { getProperties as fetchProperties } from "../../services/properties";
 
 export function useProperties() {
   const [properties, setProperties] = useState([]);
@@ -12,15 +11,7 @@ export function useProperties() {
 
     async function loadProperties() {
       try {
-        const response = await fetch(`${API_URL}/properties`, {
-          signal: controller.signal,
-        });
-
-        if (!response.ok) {
-          throw new Error(`Failed to load properties (${response.status})`);
-        }
-
-        const data = await response.json();
+        const data = await fetchProperties({ signal: controller.signal });
         setProperties(data);
       } catch (loadError) {
         if (loadError.name !== "AbortError") {

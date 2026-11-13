@@ -1,6 +1,6 @@
 # Homely Real Estate App
 
-Homely is a modern real estate landing and browsing application built with React and Vite. It allows users to explore featured properties, browse the full listings catalog, view detailed property information, read market insights articles, and contact the agency through a contact form.
+Homely is a modern real estate landing and browsing application built with React and Vite. It allows users to explore featured properties, browse the full listings catalog, view detailed property information, read market insights articles, and contact the agency through a contact form. Property, blog, and testimonial data is loaded from a static JSON file, so no separate API server is required.
 
 ## Overview
 
@@ -20,16 +20,15 @@ This project is a single-page real estate website with a polished UI and route-b
 - React Router DOM
 - Styled Components
 - Swiper
-- JSON Server for mock API data
+- Static JSON data served with the frontend
 - Lucide + Phosphor icon libraries
 
 ## Project Structure
 
 ```bash
 realstate-app/
-├── public/                 # Static assets and images
+├── public/                 # Static assets, images, and db.json data
 ├── src/
-│   ├── data/              # Mock data source (JSON)
 │   ├── features/          # Reusable product/property UI blocks
 │   ├── hooks/             # Custom hooks
 │   ├── pages/             # Route pages
@@ -39,7 +38,6 @@ realstate-app/
 │   ├── App.jsx            # App router configuration
 │   ├── index.css          # Global styles
 │   └── main.jsx           # App bootstrap
-├── db.json                # Root JSON mock database
 ├── package.json           # Scripts and dependencies
 ├── vite.config.js        # Vite config
 ├── eslint.config.js      # ESLint config
@@ -70,17 +68,15 @@ realstate-app/
 
 ## Data Source
 
-The application uses a JSON Server API to provide mock data. The source data lives in:
+The application loads its read-only data from:
 
-- [`src/data/db.json`](./src/data/db.json)
-
-The app expects the API at `http://localhost:3000` by default.
+- [`public/db.json`](./public/db.json)
 
 ## Prerequisites
 
 Before running the project, make sure you have installed:
 
-- Node.js (v18 or newer recommended)
+- Node.js (v20.19+ or v22.12+ recommended for Vite 8)
 - npm
 
 ## Installation
@@ -91,17 +87,11 @@ npm install
 
 ## Running the Project
 
-Run the mock API and the app in separate terminals:
-
 ```bash
-npm run server
 npm run dev
 ```
 
-Then open:
-
-- Frontend: `http://localhost:5173`
-- API: `http://localhost:3000`
+Open the frontend URL printed by Vite (normally `http://localhost:5173`). The data file is served at `/db.json` during development and included automatically in the production build.
 
 ## Available Scripts
 
@@ -109,19 +99,14 @@ Then open:
 npm run dev     # start the Vite development server
 npm run build   # create a production build
 npm run preview # preview the production build locally
-npm run server  # start the JSON Server mock API
 npm run lint    # run ESLint checks
 ```
 
-## API Endpoints
+## Deployment
 
-The mock backend exposes endpoints such as:
+Build the project with `npm run build` and deploy the generated `dist/` folder to any static hosting provider. No JSON Server or `VITE_API_URL` configuration is needed. Ensure the host serves `index.html` for client-side routes such as `/properties` and `/blog`; enable the host's SPA fallback option if needed.
 
-- `http://localhost:3000/properties`
-- `http://localhost:3000/blogs`
-- `http://localhost:3000/testimonials`
-
-The app uses the `VITE_API_URL` environment variable if set; otherwise it defaults to `http://localhost:3000`.
+The JSON data is read-only in the deployed app. Editing listings or submitting form data does not update `public/db.json`; the contact form opens an email draft.
 
 ## Notes
 
